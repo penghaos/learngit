@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
+马上要吃饭了，还开心啊啊啊啊
+这一行文字是为了检验分支的合并情况。
