@@ -18,7 +18,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 body {
   font-family: Helvetica, arial, freesans, clean, sans-serif;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.6;
   color: #333;
   background-color: #fff;
   padding: 20px;
@@ -66,7 +66,7 @@ h1 {
   color: #000;
   text-align:center;
   color:#009688;
-  border-bottom: 1px solid #009688;
+  
 }
 
 h2 {
@@ -188,7 +188,7 @@ pre, code, tt {
 code, tt {
   margin: 0 0px;
   padding: 0px 0px;
-  white-space: nowrap;
+  white-space: pre-wrap;
   border: 1px solid #eaeaea;
   background-color: #f8f8f8;
   border-radius: 3px;
@@ -239,7 +239,7 @@ kbd {
 =============================================================================*/
 
 blockquote {
-  border-left: 6px solid #009688;
+  border-left: 3px solid #009688;
   padding: 0 15px;
   color: #777;
 }
