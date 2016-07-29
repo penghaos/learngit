@@ -77,7 +77,7 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
   color:#009688;
 }
 
@@ -240,8 +240,9 @@ kbd {
 
 blockquote {
   border-left: 3px solid #009688;
-  padding: 0 15px;
+  padding: 0 10px;
   color: #777;
+  margin-left:1em;
 }
 
 blockquote>:first-child {
